@@ -1,6 +1,7 @@
 import "./AboutContentStyles.css"
 import Vertx from "../assets/Vertx.png"
-import SpringBoot from "../assets/SpringBoot.png"
+// import SpringBoot from "../assets/SpringBoot.png"
+import Java from "../assets/Java.png"
 
 import React from 'react'
 import { Link } from "react-router-dom";
@@ -21,7 +22,7 @@ const AboutContent = () => {
             <img src={Vertx} className="img" alt="true"/>
           </div>
           <div className="img-stack bottom">
-            <img src={SpringBoot} className="img" alt="true"/>
+            <img src={Java} className="img" alt="true"/>
           </div>
         </div>
       </div>
