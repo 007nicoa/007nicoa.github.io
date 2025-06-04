@@ -3,16 +3,16 @@ import "./WorkCardStyles.css"
 
 import React from 'react'
 
-const WorkCard = () => {
+const WorkCard = (props) => {
   return (
     <div className="project-card">
-          <img src="" alt="image" />
-          <h2 className="project-title">Project Title</h2>
+          <img src={props.imgsrc} alt="image" />
+          <h2 className="project-title">{props.title}</h2>
           <div className="pro-details">
-            <p>This is a text</p>
+            <p>{props.text}</p>
             <div className="pro-btns">
-              <NavLink to="url.com" className="btn">View</NavLink>
-              <NavLink to="url.com" className="btn">Source</NavLink>
+              {/* <NavLink to="url.com" className="btn">View</NavLink> */}
+              <NavLink to={props.source} className="btn">Source</NavLink>
             </div>
           </div>
         </div>
