@@ -36,8 +36,8 @@ ul{
   font-size: 1rem;
   text-transform: uppercase;
   background: transparent;
-  color: #222;
-  border: 1px solid black;
+  color: purple;
+  border: 1px solid purple;
   font-weight: 600;
   cursor: pointer;
 }
