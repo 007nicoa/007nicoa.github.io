@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/static/css/main.ffcd7c34.css",
-    "main.js": "/static/js/main.5c1a7298.js",
+    "main.js": "/static/js/main.baf2c410.js",
     "static/media/Camelback.jpg": "/static/media/Camelback.ac8038f872636a28bb1a.jpg",
     "static/media/Moonrise_Amherst.jpg": "/static/media/Moonrise_Amherst.7d8b84bf516768ae75d5.jpg",
     "static/media/epsilon_NFA.png": "/static/media/epsilon_NFA.5c04ab1a8c09650b93be.png",
+    "static/media/Java.png": "/static/media/Java.c4e3d087e2fb18fe505e.png",
     "static/media/PopnProto.png": "/static/media/PopnProto.0e62d836681b6bba757b.png",
     "static/media/StableMatchings.png": "/static/media/StableMatchings.05b372963299a27b20d9.png",
-    "static/media/SpringBoot.png": "/static/media/SpringBoot.b2b6812023000be36a65.png",
     "index.html": "/index.html",
     "main.ffcd7c34.css.map": "/static/css/main.ffcd7c34.css.map",
-    "main.5c1a7298.js.map": "/static/js/main.5c1a7298.js.map"
+    "main.baf2c410.js.map": "/static/js/main.baf2c410.js.map"
   },
   "entrypoints": [
     "static/css/main.ffcd7c34.css",
-    "static/js/main.5c1a7298.js"
+    "static/js/main.baf2c410.js"
   ]
 }
