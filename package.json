@@ -1,7 +1,7 @@
 {
   "name": "portfolio-project",
   "version": "0.1.0",
-  "homepage": "https://007nicoa.github.io/007nicoa.github.io",
+  "homepage": "https://007nicoa.github.io",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
