@@ -1,7 +1,7 @@
 import "./FooterStyles.css"
 
 import React from 'react'
-import { FaHome, FaPhone, FaMailBulk, FaLinkedin } from "react-icons/fa";
+import { FaHome, FaGithub, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
@@ -14,21 +14,20 @@ const Footer = () => {
               <p>Phoenix, AZ</p>
             </div>
           </div>
-          <div className="phone">
-            <h4><FaPhone size={20} style={{color: "fff", marginRight: "2rem"}}/>
-            1-224-230-7750</h4>
+          <div className="social">
+            <p><FaLinkedin size={20} style={{color: "fff", marginRight: "2rem"}}/>
+              <a href="https://www.linkedin.com/in/nico-ardila/" target="_blank">My LinkedIn</a>
+            </p>
           </div>
-          <div className="email">
-            <h4><FaMailBulk size={20} style={{color: "fff", marginRight: "2rem"}}/>
-            nicolasardila2001@gmail.com</h4>
+          <div className="github">
+            <p><FaGithub size={20} style={{color: "fff", marginRight: "2rem"}}/>
+              <a href="https://github.com/007nicoa" target="_blank">My Github</a>
+            </p>
           </div>
         </div>
         <div className="right">
           <h4>About Me</h4>
-          <p>I am Nicolas Ardila. A software engineer currently based in Phoenix, AZ at American Express</p>
-          <div className="social">
-          <h4><FaLinkedin size={20} style={{color: "fff", marginRight: "2rem"}}/></h4>
-          </div>
+          <p>I am Nicolas Ardila. A software engineer currently based in Phoenix, AZ</p>
         </div>
       </div>
     </div>
