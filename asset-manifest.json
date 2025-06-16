@@ -1,19 +1,22 @@
 {
   "files": {
     "main.css": "/static/css/main.9f7c9886.css",
-    "main.js": "/static/js/main.b61b967e.js",
+    "main.js": "/static/js/main.23a94003.js",
     "static/media/Mesa_Arch.jpg": "/static/media/Mesa_Arch.e4f1294e09612a299a74.jpg",
     "static/media/Bryce_Amp.jpg": "/static/media/Bryce_Amp.0679aae7b6a6f9504108.jpg",
     "static/media/epsilon_NFA.png": "/static/media/epsilon_NFA.5c04ab1a8c09650b93be.png",
     "static/media/PopnProto.png": "/static/media/PopnProto.0e62d836681b6bba757b.png",
     "static/media/StableMatchings.png": "/static/media/StableMatchings.05b372963299a27b20d9.png",
+    "static/media/OEDProtocol.png": "/static/media/OEDProtocol.8340f81ee96b6d4e9d71.png",
     "static/media/JavaWhiteBackground.jpg": "/static/media/JavaWhiteBackground.2ea43c1f3cae6e3b63a2.jpg",
+    "static/media/Sieve_Image.png": "/static/media/Sieve_Image.be9b7d19cb1d041d8aa8.png",
+    "static/media/MonteCarloEstimation.jpg": "/static/media/MonteCarloEstimation.685a7419aa12c084ee10.jpg",
     "index.html": "/index.html",
     "main.9f7c9886.css.map": "/static/css/main.9f7c9886.css.map",
-    "main.b61b967e.js.map": "/static/js/main.b61b967e.js.map"
+    "main.23a94003.js.map": "/static/js/main.23a94003.js.map"
   },
   "entrypoints": [
     "static/css/main.9f7c9886.css",
-    "static/js/main.b61b967e.js"
+    "static/js/main.23a94003.js"
   ]
 }
