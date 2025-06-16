@@ -7,7 +7,7 @@
 
 .hero-img::before{
   content: "";
-  background: url('../assets/Camelback.jpg');
+  background: url('../assets/Bryce_Amp.jpg');
   background-size: cover;
   background-position: center;
   height: 100%;

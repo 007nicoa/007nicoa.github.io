@@ -29,16 +29,26 @@
   line-height: 30px;
 }
 
+.social {
+  margin-bottom: 0.8rem;
+}
+
+.social p a:hover {
+  color: purple;
+  transition: 0.3s;
+}
+
+.github p a:hover {
+  color: purple;
+  transition: 0.3s;
+}
+
 .right {
   height: 100%;
   max-width: 100%;
   display: flex;
   flex-direction: column;
   padding: 1rem;
-}
-
-.social {
-  margin-top: 1rem;
 }
 
 h4 {
