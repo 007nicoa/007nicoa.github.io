@@ -11,8 +11,8 @@ const AboutContent = () => {
       <div className="left">
         <h1>Who Am I?</h1>
         <p>I am a software engineer interested in the intersection of Mathematics and Computer Science. With experience in distributed computing research, API development, and large scale applications, I work as an engineer at American Express. My work has been in the realm of Java, using the frameworks of SpringBoot and VertX. Furthermore, my interests have taken me into other spaces like ReactJS, Go, and more.</p>
-        <Link to="/contact">
-          <button className="btn">Contact</button>
+        <Link to="/project">
+          <button className="btn">Projects</button>
         </Link>
       </div>
       <div className="right">
